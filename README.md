@@ -1,16 +1,12 @@
-### Hi there 👋
+# Alex
+[![Twitter Badge](https://img.shields.io/badge/-@alex_0ff-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/_Kunal_Raghav_)](https://twitter.com/alex_0ff) [![Linkedin Badge](https://img.shields.io/badge/-alexandrecoulay-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alexandrecoulay/)](https://www.linkedin.com/in/alexandrecoulay/) [
+[![Gmail Badge](https://img.shields.io/badge/-tutotout371@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kraghav123@gmail.com)](mailto:tutotout371@gmail.com)
 
-<!--
-**alexandrecoulay/alexandrecoulay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi 👋, 
+You will find some basic code but 🙊
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on Snowbase and Oauth2
+- 🌱 I’m currently learning JavaScript
+- 😄 Pronouns: iel (because of il/elle in french) ... no, it's a joke
+-  ⚡ Languages: JavaScript, HTML, CSS, Nodejs
+-----
