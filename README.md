@@ -7,8 +7,7 @@
 ## Hi 👋, 
 You will find some basic code but 🙊
 
-- 🔭 I’m currently working on Snowbase and Oauth2
-- 🌱 I’m currently learning JavaScript
-- 😄 Pronouns: iel (because of il/elle in french) ... no, it's a joke
--  ⚡ Languages: JavaScript, HTML, CSS, Nodejs
+- 🔭 I’m currently working on the Discord bot Eric and the social network Trender
+- 🌱 I only work with mongoDB database and ReactJS/NextJs frameworks
+- ⚡ Languages: JavaScript, HTML, CSS, SCSS, Nodejs, Typescript
 -----
