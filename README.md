@@ -3,7 +3,7 @@
 ![Twitch Badge](https://img.shields.io/badge/alex_off-451391?style=flat-square&logo=Twitch&logoColor=white&link=https://www.twitch.tv/alex_off)](https://www.twitch.tv/alex_off)[
 ![YoutubeBadge](https://img.shields.io/badge/alex-FD0017?style=flat-square&logo=Youtube&logoColor=white&link=https://www.youtube.com/c/alexpgm)](https://www.youtube.com/c/alexpgm)[
 ![YoutubeBadge](https://img.shields.io/badge/alexdev-5A67EF?style=flat-square&logo=Discord&logoColor=white&link=https://discord.gg/4TMnKtn)](https://discord.gg/4TMnKtn)
-
+<a  href="https://www.npmjs.com/package/simple-twitch-api"><img  src="https://img.shields.io/npm/v/simple-twitch-api.svg?maxAge=3600"  alt="NPM version" /></a>
 ## Hi 👋, 
 You will find some basic code but 🙊
 
