@@ -12,4 +12,10 @@ You will find some basic code but 🙊
 - ⚡ Languages: JavaScript, HTML, CSS, SCSS, Nodejs, Typescript
 
 - simple-twitch-api : <a  href="https://www.npmjs.com/package/simple-twitch-api"><img  src="https://img.shields.io/npm/v/simple-twitch-api.svg?maxAge=3600"  alt="NPM version" /></a>
+
+## Some stats
+
+![Alex](https://github-readme-stats.vercel.app/api?username=alexandrecoulay&show_icons=true&theme=buefy&locale=en&count_private=true&include_all_commits=true&hide=prs,contribs)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexandrecoulay)](https://github.com/anuraghazra/github-readme-stats)
 -----
